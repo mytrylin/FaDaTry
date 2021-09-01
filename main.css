@@ -1,0 +1,13 @@
+.show-area {
+  display: flex;
+  flex-direction: row;
+  width: 100;
+}
+.show-gum {
+  padding: 10px 10px;
+
+}
+
+.pr-x {
+  padding-right: 10px; 
+}

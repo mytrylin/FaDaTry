@@ -1,2 +1,3 @@
 # FaDaTry
-發~大~財~
+
+> 稍微練習一下基礎純JS/CSS/HTML
